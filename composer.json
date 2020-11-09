@@ -1,10 +1,9 @@
 {
-    "name": "dennisvandenberg/learning-bundle",
+    "name": "dennis-learning/learning-budle",
     "description": "A Symfony bundle that ???",
     "type": "symfony-bundle",
     "version": "1.0",
     "license": "Proprietary",
-    "minimum-stability": "stable",
     "authors": [
         {
             "name": "Dennis vd Berg",
